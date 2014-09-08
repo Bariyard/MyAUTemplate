@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'AudioUnitGeneratorTemplate' target in the 'AudioUnitGeneratorTemplate' project.
+//
+
+#include <CoreServices/CoreServices.h>
+#include <CoreAudio/CoreAudio.h>
+#include <AudioUnit/AudioUnit.h>
+#include <AudioToolbox/AudioToolbox.h>
